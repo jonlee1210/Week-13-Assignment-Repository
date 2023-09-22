@@ -1,0 +1,29 @@
+.login-form {
+    text-align: center;
+    border: 1px solid #f10f0f;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+  }
+  
+  .login-heading {
+    border-bottom: 1px solid #000;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+    text-align: left; 
+  }
+  
+
+  .form-group label {
+    display: block;
+  }
+  
+  .form-group input {
+    width: 100%;
+  }
+  
+  .login-form button {
+    margin-top: 10px;
+  }
